@@ -27,5 +27,7 @@ public class ProgramaPessoaa {
         System.out.println("Nome: " + pj1.getNome());
         System.out.println("Abertura: " + pj1.getDataNascimento());
         System.out.println("CNPJ: " + pj1.getCnpj());
+        
     }
 }
+
